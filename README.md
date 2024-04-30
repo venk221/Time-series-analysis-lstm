@@ -2,10 +2,10 @@
 
 This project aims to develop a deep learning model capable of classifying daily driving trajectories to predict which taxi driver they belong to. The model utilizes Long Short-Term Memory (LSTM) neural networks, which are particularly well-suited for time series prediction tasks.
 
-##Project Overview
+## Project Overview
 The dataset used in this project consists of daily driving trajectories for five taxi drivers over a six-month period. Each trajectory includes latitude and longitude coordinates, along with various other properties such as date, time, and a status column indicating whether the taxi is occupied or vacant. The goal is to train a neural network model that can accurately predict the taxi plate number based on the provided trajectory data.
 
-##Dataset
+## Dataset
 The dataset contains the following features:
 
 - Latitude: Angular distance of a location north or south of the Earth's equator.
